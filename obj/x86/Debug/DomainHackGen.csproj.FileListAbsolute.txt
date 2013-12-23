@@ -1,0 +1,10 @@
+C:\Users\Ben Cartwright Cox\AppData\Local\Temporary Projects\DomainHackGen\bin\Debug\DomainHackGen.exe
+C:\Users\Ben Cartwright Cox\AppData\Local\Temporary Projects\DomainHackGen\bin\Debug\DomainHackGen.pdb
+C:\Users\Ben Cartwright Cox\AppData\Local\Temporary Projects\DomainHackGen\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ben Cartwright Cox\AppData\Local\Temporary Projects\DomainHackGen\obj\x86\Debug\DomainHackGen.exe
+C:\Users\Ben Cartwright Cox\AppData\Local\Temporary Projects\DomainHackGen\obj\x86\Debug\DomainHackGen.pdb
+C:\Users\Ben Cartwright Cox\Documents\GitHub\DomainHackGen\DomainHackGen\DomainHackGen\obj\x86\Debug\DomainHackGen.exe
+C:\Users\Ben Cartwright Cox\Documents\GitHub\DomainHackGen\DomainHackGen\DomainHackGen\obj\x86\Debug\DomainHackGen.pdb
+C:\Users\Ben Cartwright Cox\Documents\GitHub\DomainHackGen\DomainHackGen\DomainHackGen\bin\Debug\DomainHackGen.exe
+C:\Users\Ben Cartwright Cox\Documents\GitHub\DomainHackGen\DomainHackGen\DomainHackGen\bin\Debug\DomainHackGen.pdb
+C:\Users\Ben Cartwright Cox\Documents\GitHub\DomainHackGen\DomainHackGen\DomainHackGen\obj\x86\Debug\ResolveAssemblyReference.cache
